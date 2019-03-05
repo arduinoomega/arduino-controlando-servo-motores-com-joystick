@@ -5,7 +5,7 @@ Este é mais um projeto destinado aos iniciantes, um toturial simples mas muito 
 <img src="http://portaldoarduino.com.br/wp-content/uploads/2019/03/esquematico-controle-servos-708x1024.jpg" />
 
 
-## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/controle-via-arduino-de-2-micros-servos-com-joystick/" target="_blank">Portal do Arduino - Arduino Standalone</a>
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/controle-via-arduino-de-2-micros-servos-com-joystick/" target="_blank">Portal do Arduino - Controle via Arduino de 2 Micros Servos com joystick</a>
 
 ### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/">
 Curto e Circuito</a>.
