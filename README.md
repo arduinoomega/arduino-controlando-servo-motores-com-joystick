@@ -7,5 +7,4 @@ Este é mais um projeto destinado aos iniciantes, um toturial simples mas muito 
 
 ## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/controle-via-arduino-de-2-micros-servos-com-joystick/" target="_blank">Portal do Arduino - Controle via Arduino de 2 Micros Servos com joystick</a>
 
-### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/">
-Curto e Circuito</a>.
+### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
